@@ -1,0 +1,7 @@
+x = int(10)
+y = int(8.5)
+z = int("5")
+y = float(8.5)
+z = float("5")
+x = str("hi")
+y = str(10)
